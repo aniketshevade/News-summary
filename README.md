@@ -1,3 +1,4 @@
+# News-summary
 # 🧠 AI-Powered News Summarizer using Mistral AI + Google Sheets
 
 This project automatically fetches news articles from **The Hindu's National RSS feed**, extracts the full content, and uses **Mistral AI** to generate:
