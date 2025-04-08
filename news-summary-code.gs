@@ -35,7 +35,7 @@ function summarizeNewsletters() {
          "contentType": "application/json",
          "payload": JSON.stringify(payload),
          "headers": {
-             "Authorization": "Bearer h0TM4GLNwq77Aes0e8QS3xhYies2em6L" // Replace with your API key if needed
+             "Authorization": "Bearer " // Replace with your API key if needed
          },
          "muteHttpExceptions": true  // Allows you to log full error responses
       };
